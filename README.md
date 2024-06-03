@@ -2,7 +2,7 @@
 User-friendly blog platform allowing authenticated users to seamlessly create, edit, and delete posts.
 
 # Technologies used:
-React.js \
+React \
 Express.js \
 MySQL.
 
